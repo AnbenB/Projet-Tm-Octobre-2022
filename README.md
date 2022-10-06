@@ -4,7 +4,7 @@ Modifications principaux :
 - ajout d'un boss battle
 -niveau 1 terminé
 -niveau 2 en majorité construit
--niveau 3 commencé (qui sera à é'air libre)
+-niveau 3 commencé (qui sera à l'air libre)
 -sprites et animations du joueur faites (reste à les perfectionner)
 -Ajout d'ennemis (pas encore au point)
 -Ajout d'un système d'attaque de melee (encore en développement)
